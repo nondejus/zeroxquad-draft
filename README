@@ -2,8 +2,9 @@
 | ZX-4 |
 --------
 
-date
-unixtime
+date       2021-11-18
+cet        21:47:39
+unixtime   1637268459
 version    0.1.0
 jsonrpc    https://en.wikipedia.org/wiki/JSON-RPC
 
